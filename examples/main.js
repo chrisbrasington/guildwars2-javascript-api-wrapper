@@ -12,8 +12,8 @@ $(document).ready(function() {
 
   // If you need data from multiple promises, use Promise.all(<array>)
   Promise.all([GetEventNames(), GetEventDetails()]).then(function(data) {
-    // data[0] = GetMaps() results
-    // data[1] = GetEventNames() results
+    // data[0] = GetEventNames() results
+    // data[1] = GetEventDetails() results
     log('Promise.all succeed', data);
   });
 
