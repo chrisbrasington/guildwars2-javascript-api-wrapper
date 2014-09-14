@@ -2,6 +2,9 @@
 
 Simple Javascript Library of Functions for the [Guild Wars 2 public API](http://wiki.guildwars2.com/wiki/API:Main). 
 
+#master - javascript library
+#coffeescript-conversion branch - requires [coffeescript compiler](http://coffeescript.org/)
+
 Requirements
 ------------------
 * **jQuery 1.8.0+** (Example using jQuery 2.1.1 hosted on Google's servers)
