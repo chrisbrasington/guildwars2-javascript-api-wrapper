@@ -1,6 +1,5 @@
 ##guildwars2-javascript-api-wrapper
 
-=========
 Simple Javascript Library of Functions for the [Guild Wars 2 public API](http://wiki.guildwars2.com/wiki/API:Main). 
 
 Requirements
