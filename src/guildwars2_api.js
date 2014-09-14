@@ -19,12 +19,6 @@ function getJSON(url)
   );
 }
 
-// JSON failure response
-function failureCallback(object)
-{
-  log('error with getting JSON request');
-}
-
 // guild wars 2 api, dynamic API URL building
 // verison 1 and 2
 function apiCall(apiCallFunction, parameters, version)
